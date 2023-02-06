@@ -1,5 +1,5 @@
 
-<img src="./programming.jpg" />
+<img src="./header.jpg" />
 <h1 align="center">Hi 👋, I'm Shayan</h1>
 <h3 align="center">A passionate Full stack developer from Pakistan</h3>
 
