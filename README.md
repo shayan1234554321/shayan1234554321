@@ -1,5 +1,5 @@
 
-[![MasterHead](<img src="./programming.jpg" />]
+<img src="./programming.jpg" />
 <h1 align="center">Hi 👋, I'm Shayan</h1>
 <h3 align="center">A passionate Full stack developer from Pakistan</h3>
 
@@ -8,7 +8,6 @@
 - 💬 Ask me about **React.js , Node.js and Ruby on rails**
 - 📫 How to reach me **https://www.linkedin.com/in/shayan-khan20/**
 - 📄 Know about my experiences [shayanpk.ml](shayanpk.ml)
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207." />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shayan123455432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shayan123455432" height="30" width="40" /></a>
@@ -47,7 +46,7 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shayan1234554321&show_icons=true&locale=en" alt="shayan1234554321" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shayan1234554321&show_icons=true&locale=en&layout=compact" alt="shayan1234554321" /></p>
+
 
 
 
