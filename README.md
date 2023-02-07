@@ -1,13 +1,15 @@
 
 <img src="./header.jpg" />
-<h1 align="center">Hi 👋, I'm Shayan</h1>
+<h1 align="center"> 
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi 👋, I'm Shayan" alt="Typing SVG" />
+</h1>
 <h3 align="center">A passionate Full stack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shayan1234554321&label=Profile%20views&color=0e75b6&style=flat" alt="shayan1234554321" /> </p>
 
 - 💬 Ask me about **React.js , Node.js and Ruby on rails**
 - 📫 How to reach me **https://www.linkedin.com/in/shayan-khan20/**
-- 📄 Know about my experiences **shayanpk.ml**
+- 📄 Know about my experiences **https://www.shayanpk.ml**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shayan123455432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shayan123455432" height="30" width="40" /></a>
@@ -40,9 +42,5 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shayan1234554321&show_icons=true&locale=en" alt="shayan1234554321" /></p>
-
-
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayan1234554321&" alt="shayan1234554321" /></p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
