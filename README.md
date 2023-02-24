@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shayan1234554321&label=Profile%20views&color=0e75b6&style=flat" alt="shayan1234554321" /> </p>
 
-- 💬 Ask me about *React.js , Node.js and Ruby on rails*
+- 💬 Ask me about **React.js , Node.js and Ruby on rails**
 - 📫 How to reach me **https://www.linkedin.com/in/shayan-khan20/**
 - 📄 Know about my experiences **https://www.shayanpk.ml**
 <h3 align="left">Connect with me:</h3>
