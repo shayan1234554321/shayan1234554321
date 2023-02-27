@@ -10,6 +10,7 @@
 - 💬 Ask me about **React.js , Node.js and Ruby on rails**
 - 📫 How to reach me **https://www.linkedin.com/in/shayan-khan20/**
 - 📄 Know about my experiences **https://www.shayanpk.ml**
+- 📫 Or leave a message at **kshayan091@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shayan123455432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shayan123455432" height="30" width="40" /></a>
