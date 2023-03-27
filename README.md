@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React.js , Node.js and Ruby on rails**
 - 📫 How to reach me **https://www.linkedin.com/in/shayan-khan20/**
-- 📄 Know about my Experiences **https://www.shayanpk.ml**
+- 📄 Know about my experiences **https://www.shayanpk.ml**
 - 📫 Or leave a message at **kshayan091@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
