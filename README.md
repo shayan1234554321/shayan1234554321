@@ -3,7 +3,7 @@
 <h1 align="center"> 
     <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=fc9803&width=435&lines=Hi 👋, I'm Shayan" alt="Typing text" />
 </h1>
-<h3 align="center">A Passionate Full Stack Developer From Pakistan</h3>
+<h3 align="center">A passionate Full Stack Developer From Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shayan1234554321&label=Profile%20views&color=0e75b6&style=flat" alt="shayan1234554321" /> </p>
 
