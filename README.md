@@ -1,7 +1,7 @@
 
 <img src="./header.jpg" />
 <p align="center"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=fc9803&width=435&lines=Hi 👋, I'm Shayan" alt="Typing text" />
+    <img  src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=fc9803&width=435&lines=Hi 👋, I'm Shayan" alt="Typing text" />
 </p>
 <h3 align="center">A passionate Full Stack Developer From Pakistan</h3>
 
