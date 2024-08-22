@@ -3,13 +3,13 @@
 <p align="center"> 
     <img  src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=fc9803&width=435&lines=Hi 👋, I'm Shayan" alt="Typing text" />
 </p>
-<h3 align="center">A passionate Full Stack Developer From PAKISTAN</h3>
+<h3 align="center">A passionate Full Stack Web Developer From PAKISTAN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shayan1234554321&label=Profile%20views&color=0e75b6&style=flat" alt="shayan1234554321" /> </p>
 
-- 💬 Ask me about **React.js , React Native , Node.js and Ruby on Rails**
+- 💬 Ask me about **React.js , React Native, Next.js , Node.js and MongoDB**
 - 📫 How to reach me **https://www.linkedin.com/in/shayan-khan20/**
-- 📄 Know about my Experiences **[Portfolio website](https://www.shayanalibakhsh.com)**
+- 📄 Know about my Experiences **[Portfolio website](https://www.shayanalibakhsh.online)**
 - 📫 Or leave a message at **kshayan091@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
